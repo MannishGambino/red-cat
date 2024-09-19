@@ -1,1 +1,8 @@
 /* Place CSS styles here */
+body {
+    background-color: rgb(103, 158, 207);
+    background-image: url(../img/leafy.jpeg );
+    background-repeat: no-repeat;
+    font-family: "Fira Sans", sans-serif;
+    color: green;
+}
